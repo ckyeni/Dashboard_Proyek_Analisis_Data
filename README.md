@@ -24,7 +24,7 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-
+```
 submission
 ├───dashboard
 | ├───data_penyewaan.csv
@@ -35,4 +35,5 @@ submission
 ├───Proyek_Analisis_Data.ipynb
 ├───README.md
 └───requirements.txt
-└───url.txt :
+└───url.txt : http://192.168.43.172:8502
+```
